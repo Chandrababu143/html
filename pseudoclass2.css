@@ -1,0 +1,92 @@
+body{
+    background-image: url(https://previews.123rf.com/images/romansstudio/romansstudio2209/romansstudio220900198/191612576-abstract-background-and-texture-of-blue-bubbles-with-light-illumination-3d-illustration-high.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+.a{
+    background-color: white;
+    height: 170px;
+    width: 170px;
+    margin-left: 150px;
+    margin-top: 50px;
+    position: absolute;
+}
+.b{
+    background-color: white;
+    height: 170px;
+    width: 170px;
+    margin-left: 400px;
+    margin-top: 50px;
+    position: absolute;
+}
+.c{
+    background-color: rgb(16, 173, 235);
+    height: 170px;
+    width: 170px;
+    margin-left: 650px;
+    margin-top: 50px;
+    position: absolute;
+}
+.d{
+    background-color:rgb(225, 225, 18);
+    height: 170px;
+    width: 170px;
+    margin-left: 900px;
+    margin-top: 50px;
+    position: absolute;
+}
+.e{
+    background-color: white;
+    height: 170px;
+    width: 170px;
+    margin-left: 150px;
+    margin-top: 300px;
+    position: absolute;  
+}
+.f{
+    background-color: rgb(11, 168, 230);
+    height: 170px;
+    width: 170px;
+    margin-left: 400px;
+    margin-top: 300px;
+    position: absolute;
+}
+.g{
+    background-color: white;
+    height: 170px;
+    width: 170px;
+    margin-left: 650px;
+    margin-top: 300px;
+    position: absolute;
+}
+.h{
+    background-color: white;
+    height: 170px;
+    width: 170px;
+    margin-left: 900px;
+    margin-top: 300px;
+    position: absolute;
+}
+p{
+    
+    font-weight: bolder;
+    font-size: xx-large;
+    padding-left: 25px;
+    padding-top: 20px;
+}
+img{
+    height: 170px;
+    width: 170px;
+}
+div:hover{
+    background-color: blueviolet;
+}
+.z{
+    position: absolute;
+    font-weight: bolder;
+    font-size: x-large;
+}

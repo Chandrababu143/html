@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(224, 52, 81);
+}
+.child{
+    position: absolute;
+background-color: black;
+    height: 330px;
+    width: 200px;
+    border-radius: 20px;
+    margin-top: 140px;
+    margin-left: 430px;
+    transform: rotate(-20deg);
+    transition-duration: 5s;
+    transition-delay: 2s;
+}
+.child2{
+    position: absolute;
+    background-color: white;
+    height: 350px;
+    width: 200px;
+    margin-top: 125px;
+    margin-left: 580px;
+    border-radius: 15px;
+    transform: rotate(18deg);
+
+}
+.a{
+    position: absolute;
+    font-size: large;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+.b{
+    position: absolute;
+    padding-top: 300px;
+    padding-left: 20px;
+}
+.c{
+    color: white;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.d{
+    color: white;
+    padding-top: 220px;
+    padding-left: 30px;
+}

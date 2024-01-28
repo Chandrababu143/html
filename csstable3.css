@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to right bottom,red,rgb(35, 91, 231));
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    height: 400px;
+    width: 800px;
+    background-color: rgb(43, 239, 173);
+    color: white;
+    border-spacing: 0px;
+}
+table tr:first-child{
+    text-align: center;
+    height: 60px;
+}
+table tr:nth-child(2){
+    background-color: rgb(96, 203, 246);
+}
+td{
+    padding-left: 10px;
+}

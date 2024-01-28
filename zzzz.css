@@ -1,0 +1,101 @@
+a{
+    word-spacing: 30px;
+    text-decoration: none;
+
+}
+.b{
+    background-color: lightgreen;
+    border-radius: 10px;
+}
+.c{
+    background-color: aqua;
+    height: 60px;
+    width: 1000px;
+    padding-left: 250px;
+    padding-top: 30px;
+    /* position: absolute; */
+}
+.one{
+    background-image: url(https://images.unsplash.com/photo-1542330952-bffc55e812b2?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d29tYW4lMjB3b3JraW5nfGVufDB8fDB8fHww);
+    height: 500px;
+    width: 1500px;
+    background-repeat: no-repeat;
+    
+}
+.d{
+color: black;
+margin-top: 60px;
+margin-left: 30px;
+position: absolute;
+}
+h1{
+    margin-top: 80px;
+    margin-left: 30px;
+    position: absolute;
+}
+.e{
+    position: absolute;
+    margin-top:125px;
+    margin-left: 30px;
+}
+.f{
+    position: absolute;
+    margin-top:200px;
+    margin-left: 50px;
+    height: 40px;
+    width: 100px;
+    border-radius: 30px;
+    background-color: transparent;
+}
+.g{
+    height: 250px;
+    width: 200px;
+    background-color:rgb(26, 26, 26);
+    margin-top: -60px;
+    margin-left: 50px;
+    position: absolute;
+}
+.h{
+    height: 250px;
+    width: 200px;
+    background-color: aquamarine;
+    margin-top: -60px;
+    margin-left: 350px;
+    position: absolute;
+}
+.i{
+    height: 250px;
+    width: 200px;
+    background-color: aquamarine;
+    margin-top: -60px;
+    margin-left: 650px;
+    position: absolute;
+}
+.j{
+    height: 250px;
+    width: 200px;
+    background-color:aquamarine;
+    margin-top: -60px;
+    margin-left: 950px;
+    position: absolute;
+}
+.k{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(119, 118, 118);
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    margin-top: 40px;
+    margin-left: 70px;
+    border: 2px solid rgb(5, 168, 5);
+}
+.l{
+    padding-left: 15px;
+    color: white;
+}
+.m{
+    padding-left: 15px;
+    color: white;
+}

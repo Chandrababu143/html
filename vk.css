@@ -1,0 +1,38 @@
+img{
+    height: 40px;
+    width: 40px;
+    margin-left: 150px;
+    position: absolute;
+}
+.c{
+    margin-top: 10px;
+    margin-left: 100px;
+    position: absolute;
+}
+#gsearch{  
+      /* background-image: url(https://about.coursera.org/static/blueC-65d0362f0b397e64f6a007c7eee7e090.svg );
+    background-repeat: no-repeat;
+    background-size: ; */
+    margin-left: 220px;
+    /* margin-top: 5px; */
+    width: 400px;
+    height: 40px;
+    border-radius: 20px;
+}
+.a{
+    height: 40px;
+    width: 40px;
+    border-radius: 30px;
+    margin-left: 230px;
+
+}
+.b{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    margin-left: -40px;
+    margin-top: 5px;
+    border-radius: 15px;
+    background-color: rgb(26, 110, 212);
+    border: 1px solid blue;
+}

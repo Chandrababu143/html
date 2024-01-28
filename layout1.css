@@ -1,0 +1,38 @@
+a{
+  text-decoration: none;
+}
+h1{
+  color: black;
+  font-weight: bolder;
+}
+ul{
+  list-style-type: none;
+}
+a:link{
+  color: blue;
+}
+a:visited{
+  color: red;
+}
+a:hover{
+  background-color: greenyellow;
+  color: white;
+}
+.link h1:first-child{
+  color:red;
+}
+.link p:last-child{
+color: brown;
+}
+.link p:nth-child(4){
+  color:rgb(225, 14, 179);
+}
+.link h2:nth-child(3){
+  color: blueviolet;
+}
+.link h3:nth-child(5){
+  color: yellow;
+}
+.link p:nth-child(2){
+  color: green;
+}

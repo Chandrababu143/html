@@ -1,0 +1,40 @@
+div{
+    background-image: url(https://media.istockphoto.com/id/1257005098/photo/hd-wallpaper-for-mobile-phones.webp?b=1&s=170667a&w=0&k=20&c=Hl1nOy1NbJbEvGQsoAW4zDtMmNg9yPL7H7a1mdftly8=);
+    height: 600px;
+    width: 400px;
+}
+.a{
+    color: white;
+    padding-left: 140px;
+    padding-top: 0px;
+}
+.b{
+    color: white;
+    padding-left: 25px;
+    display: flex ;
+    justify-content:center;
+}
+.c{
+    color: white;
+
+}
+.d{
+    color: white;
+    padding-left: 4px;
+}
+button{
+    color: white;
+    background-color: rgb(255, 187, 0);
+    height: 30px;
+    width: 60px;
+    margin-top: 50px;
+}
+.e{
+    color: white;
+    text-decoration: underline;
+    padding-left: 125px;
+}
+
+
+
+

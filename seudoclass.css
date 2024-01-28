@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+div::first-line{
+    color: red;
+}
+div h1::first-letter{
+    color: blueviolet;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: lightcoral;
+}
+a:hover{
+    background-color: rgb(252, 28, 166);
+    color: white;
+}
+::marker{
+    color: brown;
+}
+h3::after{
+    content: "map";
+    color: lightgreen;
+}
+h2::before{
+    content: "Hellow";
+    color: green;
+}
